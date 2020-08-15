@@ -1,0 +1,7 @@
+potato 5.00 15 0.5
+salmon 9.95 100 0.05
+water .50 200 0.1
+pepsi 0.99 10 0.04
+cookie 2.50 20 0.03
+bread 1.87 14 0.04
+chips 1.30 7 0.04
